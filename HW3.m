@@ -1,3 +1,13 @@
+% GB Comment:
+1.	100
+2a. 100
+2b. 100
+2c. 100
+3a 100
+3b. 100 
+3c. 90 An elaboration in the comparison of the genes would be appropriate.  	
+Overall: 99
+
 %HW3
 
 %% Problem 1 - Smith-Waterman alignment
